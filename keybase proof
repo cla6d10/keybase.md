@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cla6d10 on github.
+  * I am cla6d10 (https://keybase.io/cla6d10) on keybase.
+  * I have a public key ASC8VHq4GT_1_OYucq-qLV7Nc4y9G-OM4XRNOttIy7hBYgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bc547ab8193ff5fce62e72afaa2d5ecd738cbd1be38ce1744d3adb48cbb841620a",
+      "host": "keybase.io",
+      "kid": "0120bc547ab8193ff5fce62e72afaa2d5ecd738cbd1be38ce1744d3adb48cbb841620a",
+      "uid": "613790ff00cc56e53bab6d21af968319",
+      "username": "cla6d10"
+    },
+    "merkle_root": {
+      "ctime": 1568150655,
+      "hash": "897461ccba6e9c13f6728cbd00de520dd06884ee43a0404d173af8e7531a96fd8af72d8cca65eb7c938434cc1c44ffe829ae4c363cc5044f25ecdd4045555551",
+      "hash_meta": "481763a73edaefc3d71e442329f5a53cb528d456312a5bc998da91d3a635ba4b",
+      "seqno": 6524436
+    },
+    "service": {
+      "entropy": "adnS86GiV1YXfUGOjivIBnp8",
+      "name": "github",
+      "username": "cla6d10"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568150662,
+  "expire_in": 504576000,
+  "prev": "c65e7ede4544ec4bf889a73352ca7dca60420b63044b24bb47ff41f3614501c7",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASC8VHq4GT_1_OYucq-qLV7Nc4y9G-OM4XRNOttIy7hBYgo](https://keybase.io/cla6d10), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvFR6uBk/9fzmLnKvqi1ezXOMvRvjjOF0TTrbSMu4QWIKp3BheWxvYWTESpcCBsQgxl5+3kVE7Ev4iaczUsp9ymBCC2MESyS7R/9B82FFAcfEIBfY4ZsaV7KM4UIEJmLqpHTQueMgUKXJPus1/lO8qWcBAgHCo3NpZ8RAkpP4OfWOLYc91ZKbz3m1Quy/EqFEke/pFp9Y8ThfsOV20RX+c8AofZOuemmHxcm5RI+zlDzHc44ZUheXTKuiDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBWBclqpCuP1TvTT1RXt3VJqMqGmQYkVCSD1kZWuK9dvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/cla6d10
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id cla6d10
+```
